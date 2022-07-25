@@ -24,6 +24,7 @@ public class PracticeTest {
 	{
 		System.out.println("testing 2");
 		System.out.println("status updated");
+		System.out.println("status deleted");
 		
 	}
 	
