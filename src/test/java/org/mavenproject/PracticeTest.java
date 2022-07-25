@@ -26,12 +26,14 @@ public class PracticeTest {
 		System.out.println("status updated");
 		System.out.println("status deleted");
 		
+		
 	}
 	
 	@Test
 	public void test3()
 	{
 		System.out.println("testing 3");
+		System.out.println("new branch created");
 	}
 	@Test
 	public void test4()
