@@ -23,6 +23,8 @@ public class PracticeTest {
 	public void test2()
 	{
 		System.out.println("testing 2");
+		System.out.println("status updated");
+		
 	}
 	
 	@Test
